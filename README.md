@@ -1,5 +1,17 @@
-### Hi there 👋
+# Welcome.
 
+Hi there! I'm Michiko Shin.
+
+
+# Objective:
+
+
+Upload somes funny projects and codes.
+
+
+
+## My activities
+![MI4KO GitHub stats](https://github-readme-stats.vercel.app/api?username=mi4ko&theme=rose&show_icons=true)
 <!--
 **mi4ko/mi4ko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
